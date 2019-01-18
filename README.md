@@ -2,7 +2,7 @@
 
 ### Table of Contents
 **[Installation](#useage)**<br>
-**[Useage](#useage)**<br>
+**[Usage](#usage)**<br>
 **[Contributing](#contributing)**<br>
 
 
