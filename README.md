@@ -8,7 +8,7 @@
 
 ## Installation
 
-## Useage
+## Usage
 
 Register an account with Twilio and modify the app.config
 ```csharp
