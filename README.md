@@ -10,7 +10,7 @@
 
 ## Usage
 
-Register an account with Twilio and modify the app.config
+Register an account with Twilio and modify the app.config.
 ```csharp
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
