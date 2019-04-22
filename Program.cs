@@ -7,7 +7,6 @@ namespace SweetTextV2
 {
     public class Program
     {/// <summary>
-     /// To my sweet girlfriend, Amy.
      /// The application will read a collection of strings from a .json file and periodically send a text messages. It uses Topshelf.Unity to construct a windows service that uses a Unity IoC container.
      /// </summary>
      /// <param name="args"></param>
